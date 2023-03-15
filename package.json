@@ -1,5 +1,5 @@
 {
-  "name": "simple-games-site",
+  "name": "wildworld.academy",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RussiSunni/Simple-Games-site.git"
+    "url": "git+https://github.com/RussiSunni/wildworld.academy.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RussiSunni/Simple-Games-site/issues"
+    "url": "https://github.com/RussiSunni/wildworld.academy/issues"
   },
-  "homepage": "https://github.com/RussiSunni/Simple-Games-site#readme",
+  "homepage": "https://github.com/RussiSunni/wildworld.academy#readme",
   "dependencies": {
     "express": "^4.18.2",
     "ejs": "^3.1.8"
